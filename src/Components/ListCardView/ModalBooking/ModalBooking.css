@@ -1,0 +1,10 @@
+.headerModal {
+  display: flex;
+  justify-content: space-around;
+}
+
+.textModal {
+  font-size: 20px;
+  font-weight: 500;
+  margin-right: 300px;
+}

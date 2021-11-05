@@ -1,0 +1,102 @@
+{
+    "data":[
+        {
+          "id": 0,
+          "title": "Spacious 2 story beach house",
+          "adress": "Togolok Moldo 115",
+          "image":
+          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "price": 235,
+          "guests": 3,
+          "hometype": "Apartment",
+          "description": "Spacious 2 story house with extended balcony and magnificent ocean views from every window. Numerous restaurants exist only a walking distance away.",
+          "city": "Bishkek"
+        },
+        {
+            "id": 1,
+            "title": "Spacious 2 story beach house",
+            "adress": "Baitik Baatyra 58",
+            "image":
+            "https://images.unsplash.com/photo-1506126279646-a697353d3166?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjk3fHxob3VzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "price": 710,
+            "guests": 4,
+            "hometype": "House",
+            "description": "Spacious 2 story house with extended balcony and magnificent ocean views from every window. Numerous restaurants exist only a walking distance away.",
+            "city": "Osh"
+        },
+        {
+            "id": 2,
+            "title": "Spacious 2 story beach house",
+            "adress": "Chexova 13",
+            "image":
+            "https://images.unsplash.com/photo-1430285561322-7808604715df?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGhvdXNlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "price": 350,
+            "guests": 3,
+            "hometype": "House",
+            "description": "Spacious 2 story house with extended balcony and magnificent ocean views from every window. Numerous restaurants exist only a walking distance away.",
+            "city": "Jalal-Abad"
+        },
+        {
+            "id": 3,
+            "title": "Spacious 2 story beach house",
+            "adress": "Moidunova 45",
+            "image":
+            "https://images.unsplash.com/photo-1622866306950-81d17097d458?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGFwYXJ0bWVudHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "price": 580,
+            "guests": 2,
+            "hometype": "Apartment",
+            "description": "Spacious 2 story house with extended balcony and magnificent ocean views from every window. Numerous restaurants exist only a walking distance away.",
+            "city": "Batken"
+        },
+       
+        {
+            "id": 4,
+            "title": "Spacious 2 story beach house",
+            "adress": "Karaeva 63",
+            "image":
+            "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI5fHxob3VzZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "price": 640,
+            "guests": 3,
+            "hometype": "House",
+            "description": "Spacious 2 story house with extended balcony and magnificent ocean views from every window. Numerous restaurants exist only a walking distance away.",
+            "city": "Naryn"
+        },
+        {
+            "id": 5,
+            "title": "Spacious 2 story beach house",
+            "adress": "Beishenalieva 91",
+            "image":
+            "https://images.unsplash.com/photo-1512916194211-3f2b7f5f7de3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODV8fGhvdXNlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "price": 550,
+            "guests": 3,
+            "hometype": "House",
+            "description": "Spacious 2 story house with extended balcony and magnificent ocean views from every window. Numerous restaurants exist only a walking distance away.",
+            "city": "Talas"
+        },
+        {
+            "id": 6,
+            "title": "Spacious 2 story beach house",
+            "adress": "Turusbekova 53",
+            "image":
+            "https://images.unsplash.com/photo-1486304873000-235643847519?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fGFwYXJ0bWVudHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "price": 450,
+            "guests": 4,
+            "hometype": "Apartment",
+            "description": "Spacious 2 story house with extended balcony and magnificent ocean views from every window. Numerous restaurants exist only a walking distance away.",
+            "city": "Yssyk-Kul"
+        },
+        {
+            "id": 7,
+            "title": "Spacious 2 story beach house",
+            "adress": "Turusbekova 53",
+            "image":
+            "https://images.unsplash.com/photo-1464146072230-91cabc968266?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjA5fHxob3VzZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "price": 1150,
+            "guests": 4,
+            "hometype": "Apartment",
+            "description": "Spacious 2 story house with extended balcony and magnificent ocean views from every window. Numerous restaurants exist only a walking distance away.",
+            "city": "Yssyk-Kul"
+        }
+        
+    ]
+}

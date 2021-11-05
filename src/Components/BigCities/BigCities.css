@@ -1,0 +1,55 @@
+.main-div {
+  background-image: url("https://tinyhouse-blacksonic.herokuapp.com/static/media/map-background.c8201cdd.jpg");
+  margin-top: 70px;
+  width: 1349px;
+}
+
+.div1 {
+  max-width: 1150px;
+  margin: auto;
+}
+
+h1 {
+  margin: 30px 0px;
+  margin-left: 15px;
+  color: #1d226c;
+}
+
+.containerS {
+  width: 660px;
+  height: 40px;
+  margin-bottom: 30px;
+  margin-left: 13px;
+  display: flex;
+}
+
+.imgS {
+  width: 50px;
+  height: 25px;
+  margin-bottom: 10px;
+}
+
+.cont {
+  padding-top: 1.2rem;
+  padding-bottom: 2rem;
+  margin-right: 80px;
+}
+
+.img {
+  width: 15.5rem;
+  height: 20rem;
+}
+
+.form1 {
+  width: 660px;
+  height: 40px;
+  margin-bottom: 30px;
+  margin-left: 13px;
+}
+
+.city {
+  color: white;
+  margin-top: -34px;
+  margin-left: 18px;
+  font-size: 18px;
+}

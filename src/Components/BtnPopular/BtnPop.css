@@ -1,0 +1,20 @@
+.pop-container {
+  max-width: 1150px;
+  margin: auto;
+}
+.min-div {
+  width: 500px;
+  height: 250px;
+  margin: auto;
+  text-align: center;
+  margin-top: 100px;
+}
+.pop-h3 {
+  font-size: 30px;
+  color: #1d226c;
+  font-size: 600;
+  line-height: 1.35;
+}
+.pop-p {
+  font-size: 13px;
+}
